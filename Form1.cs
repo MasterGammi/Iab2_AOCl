@@ -152,9 +152,6 @@ namespace lab2
 
         private void button3_Click_1(object sender, EventArgs e)
         {
-{
-
-};
             var destPoints = new PointF[]
             {
 
